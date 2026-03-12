@@ -1,7 +1,7 @@
 # omarchy-terere
 
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-terere/master/images/logo.jpg" alt="Mate" />
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-terere/master/images/logo.png" alt="Mate" />
 </p>
 
 Light theme for [Omarchy](https://omarchy.org) — Tererê palette.
