@@ -1,7 +1,7 @@
 # omarchy-terere
 
 <p align="center">
-  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-terere/main/images/logo.jpg" alt="Mate" />
+  <img width="120" src="https://raw.githubusercontent.com/mateCreations/omarchy-terere/master/images/logo.jpg" alt="Mate" />
 </p>
 
 Light theme for [Omarchy](https://omarchy.org) — Tererê palette.
@@ -11,7 +11,7 @@ Warm butter-paper background with amber, terracotta red, and forest green accent
 ## Palette
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mateCreations/omarchy-terere/main/images/palette-terere.png" alt="Tererê palette" />
+  <img src="https://raw.githubusercontent.com/mateCreations/omarchy-terere/master/images/palette-terere.png" alt="Tererê palette" />
 </p>
 
 | Role        | Color     |
